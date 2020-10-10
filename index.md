@@ -3,7 +3,7 @@
 Welcome to my website, I am dedicating this to the non-IT people who are interested to work in the IT
 
 You all are most welcome and expecting each one to contribute in this campaign.
-##### Anil Sangwan
+# Anil Sangwan
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
